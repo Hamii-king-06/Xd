@@ -19,6 +19,7 @@
 ➤cd Xd
 ➤python3 Xd.py
 ```
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/923155912839?text=ASALAMUALIKUM+HAMII+KING+SIR) <br><br>
 
 
 ## 📸 Screenshot 📸
@@ -26,4 +27,3 @@
 ![Screenshot_20230105-192615_com termux](https://github.com/Hamii-king-06/Xd/blob/main/Screenshot_20230105-192615.png)
 
 
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/923155912839?text=Itx+HAMII+KING) <br><br>
